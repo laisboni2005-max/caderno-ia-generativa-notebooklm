@@ -31,8 +31,6 @@ Todos os links/PDF acima foram carregados como fontes no meu Caderno do Notebook
 
 Engenharia de Prompts e "Cicatrizes"
 
-> Esta seção documenta o processo real de testagem de prompts no NotebookLM. **Preencha com as suas próprias interações** — deixo abaixo o modelo de como estruturar cada entrada, com um exemplo já resolvido pra te guiar.
-
 Exemplo (guia)
 - Pergunta inicial: "O que é IA generativa?"
 - Resposta obtida (resumo): o NotebookLM trouxe uma definição correta, mas genérica, misturando trechos de duas fontes diferentes sem deixar claro qual dizia o quê.
