@@ -1,8 +1,6 @@
 # caderno-ia-generativa-notebooklm
 # Miniguia de Estudos: Fundamentos de IA Generativa (com NotebookLM)
 
-Repositório criado para o desafio de projeto do Bootcamp Santander (Power BI) na DIO: usar Inteligência Artificial como ferramenta de aprendizagem ativa, construindo um Caderno Temático no NotebookLM.
-
 Contexto e Objetivos
 
 Escolhi Fundamentos de Inteligência Artificial Generativa como tema do meu caderno. Faz sentido pra mim por dois motivos: é um assunto que já uso na prática (inclusive pra construir este próprio projeto) e é um tema cada vez mais cobrado em processos seletivos de TI, então vale a pena entender de verdade o que está por trás da ferramenta, e não só usar no automático.
